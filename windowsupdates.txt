@@ -14,3 +14,5 @@ officecdn.microsoft.com
 officecdn.microsoft.com.edgesuite.net
 f.c2r.ts.cdn.office.net
 b.c2r.ts.cdn.office.net
+cdn.winget.microsoft.com
+storeedgefd.dsx.mp.microsoft.com
