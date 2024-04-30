@@ -6,3 +6,4 @@ http.kali.org
 packages.linuxmint.com
 apt.pop-os.org
 download.proxmox.com
+*.cdn.proxmox.com
