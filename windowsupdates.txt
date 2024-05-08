@@ -16,3 +16,15 @@ f.c2r.ts.cdn.office.net
 b.c2r.ts.cdn.office.net
 cdn.winget.microsoft.com
 storeedgefd.dsx.mp.microsoft.com
+
+com.edgesuite.net
+com.nsatc.net
+download.windowsupdate.com
+forefrontdl.microsoft.com
+go.microsoft.com
+mp.microsoft.com
+ntservicepack.microsoft.com
+update.microsoft.com
+windowsupdate.com
+windowsupdate.microsoft.com
+wustat.windows.com
